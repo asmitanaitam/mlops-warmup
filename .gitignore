@@ -1,0 +1,14 @@
+# Generated artifacts (recreated by running the scripts)
+model.joblib
+reference_stats.json
+model_info.json
+mlflow.db
+mlruns/
+logs/
+docker_logs/
+output.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
